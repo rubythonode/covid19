@@ -1,6 +1,11 @@
-# covid19
+# COVID-19 CORONAVIRUS PANDEMIC
+# LATEST NEWS FROM THE WORLD
 
-> Corona virus | Dünyada son durum
+## DEMO
+
+https://covid19world.appspot.com/
+
+# NuxtJS + Google App Engine
 
 ## Build Setup
 
